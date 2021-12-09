@@ -1,9 +1,9 @@
 
-#foobar
+# foobar
 
 foobar is a Paython library for dealing with pluralization 
 
-#installation
+# installation
 
 
 use the package manger [pip](https://pip.pypa.io/en/stable/installation) 
@@ -11,9 +11,10 @@ use the package manger [pip](https://pip.pypa.io/en/stable/installation)
 	 pip install foobar
 
 
-#usage
+# usage
 
 ``` pyton
+
 import foobar 
 
 foobar.pluralize('word') # returns 'words'
@@ -21,7 +22,7 @@ foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 
-#contributing
+# contributing
 
 
 pull requests are welcome for major change , please open an issue first to discuss what you would like to change 
@@ -29,7 +30,7 @@ pull requests are welcome for major change , please open an issue first to discu
 please make sure to update test as appropriate
 
 
-#licence
+# licence
 
 
 [MIT](https://pypi.org/project/pip-licenses/1.7.1)
