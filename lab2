@@ -1,0 +1,4 @@
+to remove brach localy   -git brach -d div  and if there is files not merged use 
+-git brach -D div
+
+to remove brach remotly - git push origin :div
