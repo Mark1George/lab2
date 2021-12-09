@@ -13,12 +13,12 @@ use the package manger [pip](https://pip.pypa.io/en/stable/installation)
 
 # usage
 
-``` pyton
+```python
 
 import foobar 
 
 foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
+foobar.pluralize('goose') # returns 'goose'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 
